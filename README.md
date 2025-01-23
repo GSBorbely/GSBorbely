@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# 👋 Hello! Welcome to my Github profile.
+## My name is Guilherme and my nickname is "GSBorbely"!
+🌱 Learning Programming logics .
 <!--
 **GSBorbely/GSBorbely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
